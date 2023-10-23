@@ -12,7 +12,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @JsonInclude
-// Essa classe representa a postagem de um novo carro na plataforma
 public class CarPostDTO {
       private String model;
       private String brand;
